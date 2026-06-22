@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
 | ------- |
