@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
