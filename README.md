@@ -35,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
