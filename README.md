@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0118-pascals-triangle) |
 ## Trie
 |  |
 | ------- |
