@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0075-sort-colors) |
 ## Stack
 |  |
 | ------- |
