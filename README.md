@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
