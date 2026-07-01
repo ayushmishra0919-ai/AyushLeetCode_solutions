@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0136-single-number) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -193,4 +196,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
