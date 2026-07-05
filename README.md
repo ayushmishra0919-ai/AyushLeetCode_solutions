@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0136-single-number) |
+| [1301-number-of-paths-with-max-score](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/3620-network-recovery-pathways) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/3620-network-recovery-pathways) |
 ## Trie
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
