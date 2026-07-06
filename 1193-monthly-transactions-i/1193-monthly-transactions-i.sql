@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT 
     LEFT(trans_date, 7) AS month,
     country, 
