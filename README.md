@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0070-climbing-stairs) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
