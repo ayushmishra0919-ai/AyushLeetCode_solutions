@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0054-spiral-matrix) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0070-climbing-stairs) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
