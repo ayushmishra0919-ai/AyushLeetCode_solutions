@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0189-rotate-array) |
 | [1260-shift-2d-grid](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0189-rotate-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
