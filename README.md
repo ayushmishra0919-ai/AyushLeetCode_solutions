@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1260-shift-2d-grid](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1331-rank-transform-of-an-array](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -382,4 +385,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
