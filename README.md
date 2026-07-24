@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1260-shift-2d-grid](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/1260-shift-2d-grid) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/0238-product-of-array-except-self) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ayushmishra0919-ai/AyushLeetCode_solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
